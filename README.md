@@ -29,11 +29,10 @@ They purchase the info products.
 
 - The marketing budget is not too high at the moment: Dilan spends only ~$1000 a month combined:
 
-  for Adwords advertisement (~$500 a month for paid ads),
-  for SEO (~$250 a month for editing) and
-  for Reddit (~$250 for content creation)
-  And he only has two products!
-
+  1. for Adwords advertisement (~$500 a month for paid ads),
+  2. for SEO (~$250 a month for editing) and
+  3. for Reddit (~$250 for content creation)
+ 
 - He wants to invest more (time, work and money). But how to do that the most efficiently? What should he focus on?
 ## Data
 
