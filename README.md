@@ -1,5 +1,5 @@
 # Project-Customer_analysis
-A project diving into the data of a fictional travel guide startup.
+A project diving into the data of travel guide startup.
 
 ## Goal of the project
 The goal of this analysis is to help a fictional startup get more information about its customers to improve decision making.
