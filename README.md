@@ -1,4 +1,4 @@
-# Project-Customer_analysis
+# Project-Backpackers Of The World Unite
 A project diving into the data of travel guide startup.
 
 ## Goal of the project
